@@ -1,0 +1,2 @@
+File handling is the ability to perform various operations on files
+Using the open function, you can access a file
